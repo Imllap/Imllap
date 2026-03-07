@@ -1,16 +1,22 @@
-Hi, I'm Lapasrada Lueadul 👋
+# Hi, I'm Lapasrada Lueadul 👋
 
-<!--
-**Imllap/Imllap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer at Suranaree University of Technology (SUT)
+with an interest in Web Development and UI Design.
 
-Here are some ideas to get you started:
+I enjoy building user-friendly web interfaces and learning new technologies to 
+improve my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+_____________________________________________________________________________________________________________________________________________________________________
+
+### Languages
+JavaScript, Java, PHP
+
+### Frontend
+React, HTML, CSS
+
+### Database
+Firebase
+
+### Tools
+Git, Visual Studio Code, Figma
