@@ -7,7 +7,6 @@ I enjoy building user-friendly web interfaces and learning new technologies to
 improve my development skills.
 
 # Skills
-_____________________________________________________________________________________________________________________________________________________________________
 
 ### Languages
 JavaScript, Java, PHP
