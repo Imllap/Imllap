@@ -9,13 +9,13 @@ improve my development skills.
 # Skills
 
 ### Languages
-JavaScript, Java, PHP
+JavaScript, Java, PHP, C#
 
 ### Frontend
 React, HTML, CSS
 
 ### Database
-Firebase
+Firebase, PostgreSQL
 
 ### Tools
 Git, Visual Studio Code, Figma
